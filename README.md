@@ -1,7 +1,8 @@
                                                   # LAB3-ParaProgram-
 Задание:  3)	Модифицировать программу из л/р №2 для параллельной работы по технологии MPI
 
-Time with MPI
+Time with MPI:
+
 Matrix's size is: 100 Def meth's time: 3.3
 
 Matrix's size is: 200 Def meth's time: 11
